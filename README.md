@@ -1,4 +1,4 @@
-- Hi, I’m @GuillaumeMMM
+- Hi, I’m [@GuillaumeMMM](https://guillaumemeigniez.me/)
 - I do web front end development [(see my resume)](https://guillaumemeigniez.me/assets/resume-guillaume_meigniez.pdf)
 - I'm into accessibility, design systems and data visualization
 - I have a dataviz-related [instagram account](https://www.instagram.com/datadesignmeasheep/)
